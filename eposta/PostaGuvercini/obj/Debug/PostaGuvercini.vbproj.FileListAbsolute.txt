@@ -1,0 +1,11 @@
+D:\Mutlu YALI\Gorsel3_2016\IO\PostaGuvercini\PostaGuvercini\bin\Debug\PostaGuvercini.exe.config
+D:\Mutlu YALI\Gorsel3_2016\IO\PostaGuvercini\PostaGuvercini\bin\Debug\PostaGuvercini.exe
+D:\Mutlu YALI\Gorsel3_2016\IO\PostaGuvercini\PostaGuvercini\obj\Debug\PostaGuvercini.EPostaSifreForm.resources
+D:\Mutlu YALI\Gorsel3_2016\IO\PostaGuvercini\PostaGuvercini\obj\Debug\PostaGuvercini.Form1.resources
+D:\Mutlu YALI\Gorsel3_2016\IO\PostaGuvercini\PostaGuvercini\obj\Debug\PostaGuvercini.Resources.resources
+D:\Mutlu YALI\Gorsel3_2016\IO\PostaGuvercini\PostaGuvercini\obj\Debug\PostaGuvercini.vbproj.GenerateResource.Cache
+D:\Mutlu YALI\Gorsel3_2016\IO\PostaGuvercini\PostaGuvercini\obj\Debug\PostaGuvercini.exe
+D:\Mutlu YALI\Gorsel3_2016\IO\PostaGuvercini\PostaGuvercini\obj\Debug\PostaGuvercini.xml
+D:\Mutlu YALI\Gorsel3_2016\IO\PostaGuvercini\PostaGuvercini\obj\Debug\PostaGuvercini.pdb
+D:\Mutlu YALI\Gorsel3_2016\IO\PostaGuvercini\PostaGuvercini\bin\Debug\PostaGuvercini.pdb
+D:\Mutlu YALI\Gorsel3_2016\IO\PostaGuvercini\PostaGuvercini\bin\Debug\PostaGuvercini.xml
